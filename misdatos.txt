@@ -1,2 +1,3 @@
 Nombre: Linda
 País: España
+Sexo: Femenino
